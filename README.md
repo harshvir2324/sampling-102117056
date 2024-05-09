@@ -1,8 +1,8 @@
-# Sampling Assignment - Divyam
+# Sampling Assignment - Harshvir 
 ## Data Sampling and Model Evaluation
-Name: Divyam Malik<br>
-Roll No. 102103142<br>
-Group: 3CO5<br>
+Name: Harshvir Singh<br>
+Roll No. 102117056<br>
+Group: 3Cs2<br>
 
 From the table I can conclude that Random forest is best model and if we consider 1 as overfitting then Decision trees will be the best
 
